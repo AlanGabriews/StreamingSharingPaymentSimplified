@@ -1,0 +1,1 @@
+document.querySelector(".create").addEventListener("click", () => window.location.href = "../create.html");
